@@ -70,28 +70,14 @@ plt.axis('off')
 ## Output:
 
 ### Display the input Image
-<br>
-<br>![output](.//SAR1.png)
-<br>
-<br>
-<br>
-<br>
+![output](.//SAR1.png)
+
 
 ### Display the Eroded Image
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+![output](.//SARVES2.png)
 
 ### Display the Dilated Image
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+![output](.//SAR3.png)
 
 ## Result
 Thus the generated text image is eroded and dilated using python and OpenCV.
