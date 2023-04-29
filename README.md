@@ -71,7 +71,7 @@ plt.axis('off')
 
 ### Display the input Image
 <br>
-<br>![output](SAR1.png)
+<br>![output](.//SAR1.png)
 <br>
 <br>
 <br>
