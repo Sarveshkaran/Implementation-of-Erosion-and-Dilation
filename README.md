@@ -6,7 +6,7 @@ To implement Erosion and Dilation using Python and OpenCV.
 2. OpenCV
 ## Algorithm:
 ### Step1:
-<br>
+<br> Import the necessary packages.
 
 
 ### Step2:
